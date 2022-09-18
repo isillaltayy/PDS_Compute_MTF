@@ -1,0 +1,5 @@
+/home/isil/CLionProjects/Project1/cmake-build-debug/CMakeFiles/Project1.dir
+/home/isil/CLionProjects/Project1/cmake-build-debug/CMakeFiles/package.dir
+/home/isil/CLionProjects/Project1/cmake-build-debug/CMakeFiles/package_source.dir
+/home/isil/CLionProjects/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/isil/CLionProjects/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

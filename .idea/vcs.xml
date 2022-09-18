@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/NumCPP/NumCpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NumCpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NumCpp/NumCpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/argparse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/argumentum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/argparse-src" vcs="Git" />
+  </component>
+</project>
